@@ -11,11 +11,14 @@ Ph.D. Student at Department of Computer Science, School of Computing, Tokyo Inst
 ## Skills
 
 - Linux Containers
-  - Docker, Singularity, Shifter, OCI-standards, etc.
+  - Performance optimization for container runtime, building, distribution, storing.
+    - Docker, Singularity, Shifter, OCI-standards, etc.
 - HPC Engineering
-  - MPI, OpenMP, CUDA, C/C++, Python, etc.
+  - Software development and performance tuning
+    - MPI, OpenMP, CUDA, C/C++, Python, etc.
 - DevOps Engineering
-  - CI/CD Tools (e.g. GitHub Actions, Travis CI, etc.)
+  - CI/CD for fast, portable, and reproducible application development.
+    - Docker, GitHub Actions, Travis CI, etc.
 
 ## Publications (Online-CV)
 
