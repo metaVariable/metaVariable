@@ -6,15 +6,15 @@ Ph.D. Student at Department of Computer Science, School of Computing, Tokyo Inst
 
 - Linux Containers for High Performance Computing
 - Parallel/Distributed/Cloud Computing
-- Bioinformatics Application and Workflow Systems
+- Bioinformatics Application and Workflow System
 
 ## Skills
 
 - Linux Containers
-  - Performance tuning for runtime, building, storing, and distribution.
+  - Performance tuning for container runtime, image building, storing, and distribution.
     - Docker, Singularity, Shifter, OCI-standards, etc.
 - HPC Engineering
-  - Software development and performance tuning
+  - Application development and performance tuning
     - MPI, OpenMP, CUDA, C/C++, Python, etc.
 - DevOps Engineering
   - CI/CD for fast, portable, and reproducible application development.
