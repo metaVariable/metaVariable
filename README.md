@@ -6,7 +6,7 @@ Ph.D. Student at Department of Computer Science, School of Computing, Tokyo Inst
 
 - Linux Containers for High Performance Computing
 - Parallel/Distributed/Cloud Computing
-- Bioinformatics
+- Bioinformatics Application and Workflow Systems
 
 ## Skills
 
