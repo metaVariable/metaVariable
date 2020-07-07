@@ -20,6 +20,6 @@ Ph.D. Student at Department of Computer Science, School of Computing, Tokyo Inst
   - CI/CD for fast, portable, and reproducible application development.
     - Docker, GitHub Actions, Travis CI, etc.
 
-## Publications (Online-CV)
+## Publications (Link to Online-CV)
 
 https://metavariable.github.io/
