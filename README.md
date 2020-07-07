@@ -1,16 +1,22 @@
-### Hi there 👋
+# Kento Aoyama
 
-<!--
-**metaVariable/metaVariable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. Student at Department of Computer Science, School of Computing, Tokyo Institute of Technology
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux Containers for High Performance Computing
+- Parallel/Distributed/Cloud Computing
+- Bioinformatics
+
+## Skills
+
+- Linux Containers
+  - Docker, Singularity, Shifter, OCI-standards, etc.
+- HPC Engineering
+  - MPI, OpenMP, CUDA, C/C++, Python, etc.
+- DevOps Engineering
+  - CI/CD Tools (e.g. GitHub Actions, Travis CI, etc.)
+
+## Publications (Online-CV)
+
+https://metavariable.github.io/
