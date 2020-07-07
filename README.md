@@ -11,7 +11,7 @@ Ph.D. Student at Department of Computer Science, School of Computing, Tokyo Inst
 ## Skills
 
 - Linux Containers
-  - Performance optimization for container runtime, building, distribution, storing.
+  - Performance tuning for runtime, building, storing, and distribution.
     - Docker, Singularity, Shifter, OCI-standards, etc.
 - HPC Engineering
   - Software development and performance tuning
