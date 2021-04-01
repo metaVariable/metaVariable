@@ -1,6 +1,4 @@
-# Kento Aoyama
-
-Ph.D. Student at Department of Computer Science, School of Computing, Tokyo Institute of Technology
+Kento Aoyama (M.Eng) is a researcher working at School of Computing, Tokyo Institute of Technology.
 
 ## Research Interests
 
