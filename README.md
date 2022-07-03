@@ -1,6 +1,6 @@
-Kento Aoyama (M.Eng) is a researcher working at School of Computing, Tokyo Institute of Technology.
+Kento Aoyama (M.Eng) is a IT infrastructure engineer.
 
-## Research Interests
+## Interests
 
 - Linux Containers for High Performance Computing
 - Parallel/Distributed/Cloud Computing
