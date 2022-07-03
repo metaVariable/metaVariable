@@ -1,4 +1,4 @@
-Kento Aoyama (M.Eng) is a IT infrastructure engineer.
+Kento Aoyama (M.Eng) is a IT infrastructure/High Performance Computing/DevOps engineer.
 
 ## Interests
 
