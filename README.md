@@ -1,23 +1,25 @@
-Kento Aoyama (M.Eng) is a IT infrastructure/High Performance Computing/DevOps engineer.
+( IT infrastructure | High Performance Computing ) engineer.
 
 ## Interests
 
 - Linux Containers for High Performance Computing
-- Parallel/Distributed/Cloud Computing
-- Bioinformatics Application and Workflow System
+- Parallel/Distributed Computing
+- Kubernetes for ML/Batch Workloads
 
 ## Skills
 
 - Linux Containers
   - Performance tuning for container runtime, image building, storing, and distribution.
     - Docker, Singularity, Shifter, OCI-standards, etc.
-- HPC Engineering
-  - Application development and performance tuning
+- HPC/ML Engineering
+  - Parallel/Distributed application development and performance tuning.
     - MPI, OpenMP, CUDA, C/C++, Python, etc.
-- DevOps Engineering
-  - CI/CD for fast, portable, and reproducible application development.
-    - Docker, GitHub Actions, Travis CI, etc.
+- Development of Services on Kubernetes
+  - Development of Kubernetes as a Service (KaaS) and related components.
+    - golang, grpc, client-go, controller-runtime, etc.
+- System Administration
+  - Linux Cluster, GPU Cluster, Kubernetes Cluster, etc.
 
-## Publications (Link to Online-CV)
+## more information
 
 https://metavariable.github.io/
